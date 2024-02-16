@@ -1,0 +1,46 @@
+{
+  "funcionarios": [
+    {
+      "id": "fdad",
+      "full_name": "Douglas Adão de Oliveira",
+      "email": "douglas.oliveira@fiocruz.br",
+      "office": "Desenvolvedor"
+    },
+    {
+      "id": "7365",
+      "full_name": "Cora Coralina",
+      "email": "cora.coralina@fiocruz.br",
+      "office": "Analista de Qualidade"
+    },
+    {
+      "id": "bd69",
+      "full_name": "Maria José Adão de Oliveira",
+      "email": "maria.oliveira@fiocruz.br",
+      "office": "Lider de Desenvolvimento"
+    },
+    {
+      "id": "152b",
+      "full_name": "Gladstone Leon",
+      "email": "gladstone.leon@cdts.fiocruz.br",
+      "office": "Analista de Qualidade"
+    }
+  ],
+  "cargos": [
+    {
+      "nome": "Desenvolvedor",
+      "id": "1"
+    },
+    {
+      "nome": "Analista de Qualidade",
+      "id": "2"
+    },
+    {
+      "nome": "Lider de Desenvolvimento",
+      "id": "3"
+    },
+    {
+      "nome": "Administrador Geral",
+      "id": "4"
+    }
+  ]
+}
